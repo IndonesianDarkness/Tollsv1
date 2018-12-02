@@ -107,7 +107,7 @@ apt install python2
 pkg install git
 git clone https://github.com/Gameye98/santet-online
 cd santet-online
-python2 santet.py
+python santet.py
 fi
 
 if [ $pilihan = "02" ] || [ $pilihan = "2" ]
